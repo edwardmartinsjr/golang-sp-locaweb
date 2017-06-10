@@ -1,0 +1,23 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Folders
+_obj
+_test
+
+*.exe
+*.test
+*.prof
+*.debug
+*.zip
+*debug
+dockerawslogin.sh
+/vendor/**/.git
+.vscode
+*.DS_Store
+
+# git rm -r --cached .
+# git add .
+# git commit -m "fixed untracked files"  

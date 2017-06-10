@@ -1,0 +1,146 @@
+Track: Trump
+stop words: [the of and a am to in is be that was he for it with as his i i'm on have at by not they this had are but from or she an which you one we all were her would there their will when who him been has more if no out do so can what up said about other into than its it's time only could new them man some these then two first any now my such make over our even most me state after also made many did must before back see through way where get much go well your you're youre we're they're theyre he's she's he'll she'll we'll they'll know should]
+
+> RT @ProudResister: Trump promises to testify under oath. That means no lying, no shouting &amp; no teleprompter. Basically he's going to jail.…
+
+	     rt  trump  pro..  tes..  under   oath  means  lying  sho..    amp  tel..  bas..  going  jai..
+Positive 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0001 0.0000 0.0000 0.0000 0.0000 0.0000 0.0007 0.0000
+Negative 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0009 0.0000
+1.00000 Negative ***
+-238.30 Negative
+    NaN (posrate)
+
+> RT @JulianAssange: Comey's a lousy leaker:
+1. No leak that Trump wasn't under investigation or Lynch
+2. No leak of memo FULL TEXT
+3. Delaye…
+
+	     rt  com..  lousy  lea..   leak  trump  was..  under  inv..  lynch   leak   memo   full   text  del..
+Positive 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0001 0.0000 0.0000 0.0000 0.0000 0.0000 0.0001 0.0002 0.0000
+Negative 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0002 0.0000 0.0000 0.0000 0.0000 0.0000 0.0001 0.0002 0.0000
+0.99994 Positive ***
+-263.17 Positive
+    NaN (posrate)
+
+> RT @brhodes: Trump - friend of Putin, Sissi, Salman, Duterte, Erdogan - will cite human rights to justify hurting the Cuban people.
+
+	     rt  trump  fri..  putin  sissi  sal..  dut..  erd..   cite  human  rig..  jus..  hur..  cuban  peo..
+Positive 0.0000 0.0000 0.0002 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0005
+Negative 0.0000 0.0000 0.0002 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0007
+0.73738 Negative 
+-276.16 Negative
+    NaN (posrate)
+
+> RT @nancylcoleman: I talked to some Twitter users blocked by @realDonaldTrump about what got them shut out by the president: https://t.co/t…
+
+	     rt  tal..  twi..  users  blo..    got   shut  pre..  htt..
+Positive 0.0000 0.0000 0.0004 0.0000 0.0000 0.0012 0.0000 0.0000 0.0000
+Negative 0.0000 0.0000 0.0007 0.0000 0.0000 0.0010 0.0000 0.0000 0.0000
+0.99998 Positive ***
+-121.96 Positive
+    NaN (posrate)
+
+> @bigracks he's like Basketball's Trump
+
+	   like  bas..  trump
+Positive 0.0018 0.0000 0.0000
+Negative 0.0019 0.0000 0.0000
+0.50922 Negative 
+ -44.40 Negative
+    NaN (posrate)
+
+> RT @JuddLegum: Things Trump has promised to reveal:
+
+1. His tax returns
+
+2. Proof he was wiretapped by Obama
+
+3. Proof 3 million people ill…
+
+	     rt  thi..  trump  pro..  rev..    tax  ret..  proof  wir..  obama  proof  mil..  peo..  ill..
+Positive 0.0000 0.0002 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0005 0.0000
+Negative 0.0000 0.0002 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0007 0.0000
+1.00000 Positive ***
+-235.49 Positive
+    NaN (posrate)
+
+> RT @TheLastRefuge2: Dear Qatar, be nice and play ball with Mr. Tillerson, or face the wrath of King Salman with President Trump’s blessing.…
+
+	     rt   dear  qatar   nice   play   ball     mr  til..   face  wrath   king  sal..  pre..  tru..  ble..
+Positive 0.0000 0.0000 0.0000 0.0004 0.0002 0.0001 0.0000 0.0000 0.0002 0.0000 0.0001 0.0000 0.0000 0.0000 0.0000
+Negative 0.0000 0.0000 0.0000 0.0001 0.0002 0.0000 0.0000 0.0000 0.0002 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000
+0.98450 Positive ***
+-241.11 Positive
+    NaN (posrate)
+
+> RT @RealEagleBites: THEY LIE: The dishonest media has become a REAL THREAT to DEMOCRACY as they try to undermine elected Pres.#FakeNews htt…
+
+	     rt    lie  dis..  media  bec..   real  thr..  dem..    try  und..  ele..  pre..  htt..
+Positive 0.0000 0.0000 0.0000 0.0000 0.0001 0.0001 0.0000 0.0000 0.0002 0.0000 0.0000 0.0000 0.0000
+Negative 0.0000 0.0000 0.0000 0.0000 0.0000 0.0001 0.0000 0.0000 0.0002 0.0000 0.0000 0.0000 0.0000
+0.57309 Positive 
+-237.00 Positive
+    NaN (posrate)
+
+> RT @tedlieu: .@POTUS made 492 false stmts in first 100 days. I can't wait for Trump to testify under oath before trained FBI agents.  #Trum…
+
+	     rt  potus  false  stmts   days  can..  trump  tes..  under   oath  tra..    fbi  age..  tru..
+Positive 0.0000 0.0000 0.0000 0.0000 0.0004 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000
+Negative 0.0000 0.0000 0.0000 0.0000 0.0003 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000
+1.00000 Negative ***
+-267.87 Negative
+    NaN (posrate)
+
+> RT @CaptHaddock83: @RaheemKassam @DrMartyFox @BrittPettibone @SIRIUSXM @Cernovich @STKnutsen @joelpollak @AlexMarlow @frankgaffney @atlassh…
+
+	     rt
+Positive 0.0000
+Negative 0.0000
+0.53333 Negative 
+ -10.70 Negative
+    NaN (posrate)
+
+> RT @funder: Corporations: If you're truly against Trump pulling out of the #ParisAgreement then stop giving the GOP $ until Trump rescinds…
+
+	     rt  cor..  truly  aga..  trump  pul..  par..   stop  giv..    gop  until  trump  res..
+Positive 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0001 0.0001 0.0000 0.0001 0.0000 0.0000
+Negative 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0002 0.0001 0.0000 0.0001 0.0000 0.0000
+0.99999 Positive ***
+-197.19 Positive
+    NaN (posrate)
+
+> RT @USMC_DD: Here are McCains Medals. Trump Dodged the Draft 5 times, 4 educational, 1 to Bone Spurs. He forgot which foot and the records…
+
+	     rt   here  mcc..  med..  trump  dod..  draft  times  edu..   bone  spurs  for..   foot  rec..
+Positive 0.0001 0.0004 0.0000 0.0000 0.0000 0.0000 0.0000 0.0001 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000
+Negative 0.0000 0.0004 0.0000 0.0000 0.0000 0.0000 0.0000 0.0001 0.0000 0.0000 0.0000 0.0002 0.0000 0.0000
+0.99998 Positive ***
+-236.26 Positive
+    NaN (posrate)
+
+> RT @TheRickyDavila: I guess since trump's "new at this", he's allowed the privileges of a Dictator. Wtf. https://t.co/e7pxW8J4kH
+
+	     rt  guess  since  tru..  all..  pri..  dic..    wtf
+Positive 0.0001 0.0001 0.0001 0.0000 0.0000 0.0000 0.0000 0.0000
+Negative 0.0000 0.0002 0.0003 0.0000 0.0000 0.0000 0.0000 0.0001
+0.99202 Negative ***
+-123.64 Negative
+    NaN (posrate)
+
+> RT @costareports: This is the biggest news of the day: Pres. Trump said he is "100 percent" willing to testify under oath.
+
+	     rt  big..   news    day   pres  trump  per..  wil..  tes..  under   oath
+Positive 0.0001 0.0000 0.0001 0.0013 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000
+Negative 0.0001 0.0000 0.0001 0.0008 0.0000 0.0000 0.0000 0.0000 0.0000 0.0001 0.0000
+1.00000 Negative ***
+-159.84 Negative
+    NaN (posrate)
+
+> RT @PinkBelgium: Comey OUT ✅ Trump/Russia Collusion OUT ✅ Another Huge Winning! 👏🇺🇸 #MAGA - Don Jr. Speaks Out on Comey Testimony https://t…
+
+	     rt  comey      ✅  tru..  col..      ✅  ano..   huge  win..  �..   maga    don     jr  spe..  comey  tes..  htt..
+Positive 0.0001 0.0000 0.0000 0.0000 0.0000 0.0000 0.0002 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000
+Negative 0.0001 0.0000 0.0000 0.0000 0.0000 0.0000 0.0001 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000 0.0000
+1.00000 Positive ***
+-356.65 Positive
+    NaN (posrate)
