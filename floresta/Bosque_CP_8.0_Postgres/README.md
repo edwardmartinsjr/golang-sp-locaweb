@@ -8,7 +8,7 @@ Como carregar o bosque no postgres uando os .sql "originais"
 2. Inicie o container: ```docker run --name pg-floresta -e POSTGRES_PASSWORD=123mudar -d postgres:floresta```
 3. Crie o banco de dados: ```docker exec pg-floresta createdb -U postgres -E ISO_8859_1 -T template0 --locale=pt_BR.ISO-8859-1 floresta```
 4. Copie os arquivos SQL para dentro do container: ```docker cp ./*.sql pg-floresta:/tmp/```
-5. Crie as tabelas: ```docker exec pg-floresta psql floresta -U postgres -f /tmp/create.sql```
+5. Crie as tabelas: ```docker exec pg-floresta psql floresta -U postgres -f /tmp/create_tables.sql```
 6. Insira os dados: ```docker exec pg-floresta psql floresta -U postgres -f /tmp/bosque.sql```
 7. Tenha paciência enquando os dados são inseridos
 8. Have fun!
